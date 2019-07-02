@@ -1,11 +1,4 @@
-name of serving:
-Ofir cohen
-id: 204270953
-Ran barak
-id: 305010324
-
-exercise 2.
-
+Tetris Game notes:
 
 Reviewer guidelines:
 
